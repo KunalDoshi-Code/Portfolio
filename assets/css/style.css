@@ -1327,7 +1327,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .avatar-box { border-radius: 30px; }
 
-  .avatar-box img { width: 120px; box-shadow: 05px 05px 11px var(--onyx); }
+  .avatar-box img { width: 120px; filter:drop-shadow(05px 05px 11px var(--onyx)) ; }
 
   .info-content .name { margin-bottom: 15px; }
 
